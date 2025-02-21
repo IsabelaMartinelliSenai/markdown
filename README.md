@@ -4,7 +4,7 @@
 
 ## Curso: CT Desenvolvimento de Sistemas - Turma I1HN - SESI Nova Odessa
 
-*Essa pagina* tem _como_ objetivo testar o **markdown**
+_Essa pagina_ tem _como_ objetivo testar o **markdown**
 
 ~~Este texto será taxado~~
 
